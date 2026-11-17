@@ -18,11 +18,31 @@ O projeto envolve o planejamento, a modelagem, o desenvolvimento dos sistemas de
 ### 3.4. por fim
 - Por fim desejamos integrar tudo isso em algo funcional (escopo).
 # 4. escopo
-- modelagem tridimensional.
-- sistema elétrico e dos circuitos de acionamento.
+- implementação da modelagem tridimensional.
+- implementação do sistema elétrico e dos circuitos de acionamento.
 - Implementação do sistema de controle e comunicação remota.
 - Integração dos diferentes subsistemas do robô.
+- montagem física do protótipo.
 - realização de diversos testes e verificações de desempenho
 # 5. requisitos funcionais
-- Montagem física do protótipo.
-# 5. requisitos
+- O robô deve receber comandos de um operador por meio de um sistema de controle remoto.
+- O robô deve ser capaz de se movimentar a partir dos comandos recebidos.
+- O robô deve permitir a execução de movimentos de avanço e recuo.
+- O robô deve permitir a realização de curvas para ambos os lados.
+- O robô deve possuir um sistema de fixação para transportar um balão.
+- o robô deve possuir uma clava espinhosa para estourar o balão adversário
+# 6. restrições
+| Componente | Quantidade |
+|---|---:|
+| Placa de desenvolvimento ESP-WROOM32 | 1 |
+| Motor escovado DC de 6 V | 2 |
+| Regulador de tensão L7805CV | 2 |
+| Driver de motor DRV8833 | 1 |
+| Placa perfurada | 1 |
+| Capacitores e resistores | Disponível |
+| Conectores, fios e protoboards | Disponível |
+| Filamento para impressão 3D | Disponível |
+
+IMPORTANTE: a utilização desses recursos deverá orientar as decisões relacionadas à modelagem.
+# 7. Metodologia de Desenvolvimento
+
