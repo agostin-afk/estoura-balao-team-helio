@@ -8,7 +8,12 @@ Este documento tem como finalidade apresentar a documentação técnica do proje
 O projeto envolve o planejamento, a modelagem, o desenvolvimento dos sistemas de controle e elétrico, a integração dos componentes e a montagem de um robô capaz de participar de uma competição cujo objetivo consiste em estourar o balão do adversário enquanto preserva o próprio.
 
 # 3. Objetivos
-### 3.1. parte mecânica
+### 3.1. mecânica
 - Desenvolver uma estrutura mecânica que comporte os componentes necessários ao funcionamento do robô.
 - Implementar um sistema de acionamento dos motores responsável pela movimentação do robô.
 ### 3.2. controle
+-  Desenvolver um sistema de controle capaz de receber e interpretar comandos remotos.
+### 3.3. elétrico
+- Projetar e implementar o sistema elétrico responsável pela alimentação e pelo acionamento dos componentes.
+### 3.4. por fim
+- Por fim desejamos integrar tudo isso em algo funcional (escopo).
