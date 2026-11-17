@@ -17,3 +17,12 @@ O projeto envolve o planejamento, a modelagem, o desenvolvimento dos sistemas de
 - Projetar e implementar o sistema elétrico responsável pela alimentação e pelo acionamento dos componentes.
 ### 3.4. por fim
 - Por fim desejamos integrar tudo isso em algo funcional (escopo).
+# 4. escopo
+- modelagem tridimensional.
+- sistema elétrico e dos circuitos de acionamento.
+- Implementação do sistema de controle e comunicação remota.
+- Integração dos diferentes subsistemas do robô.
+- realização de diversos testes e verificações de desempenho
+# 5. requisitos funcionais
+- Montagem física do protótipo.
+# 5. requisitos
