@@ -24,6 +24,10 @@ O projeto envolve o planejamento, a modelagem, o desenvolvimento dos sistemas de
 - Integração dos diferentes subsistemas do robô.
 - montagem física do protótipo.
 - realização de diversos testes e verificações de desempenho
+# 4.5. nao escopo
+- navegação autônoma.
+- reconhecimento automático de adversários.
+- sistemas de visão computacional.
 # 5. requisitos funcionais
 - O robô deve receber comandos de um operador por meio de um sistema de controle remoto.
 - O robô deve ser capaz de se movimentar a partir dos comandos recebidos.
