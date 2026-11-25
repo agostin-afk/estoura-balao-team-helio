@@ -31,6 +31,13 @@ O projeto envolve o planejamento, a modelagem, o desenvolvimento dos sistemas de
 - O robô deve permitir a realização de curvas para ambos os lados.
 - O robô deve possuir um sistema de fixação para transportar um balão.
 - o robô deve possuir uma clava espinhosa para estourar o balão adversário
+# 5.5. requisitos não funcionais
+-	O robô deve apresentar estabilidade durante a movimentação.
+-	O sistema de controle deve responder adequadamente aos comandos.
+-	O circuito deve possuir proteções elétricas mínimas.
+-	A estrutura deve apresentar resistência mecânica suficiente para a competição.
+-	O sistema deve apresentar alimentação elétrica estável.
+-	O robô deve ser compacto e apresentar boa distribuição de massa.
 # 6. restrições
 | Componente | Quantidade |
 |---|---:|
