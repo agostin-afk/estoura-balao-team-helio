@@ -57,4 +57,11 @@ O projeto envolve o planejamento, a modelagem, o desenvolvimento dos sistemas de
 IMPORTANTE: a utilização desses recursos deverá orientar as decisões relacionadas à modelagem.
 # 7. Metodologia de Desenvolvimento
 # 8. testes e resultados
+- motores testados individualmente (x)
+- drive testado individualmente (x)
+- esp32 testado individualmente (x)
+- comunicação esps32 e drive testados (x)
+- continuidade fios do drive testados (x)
+- continuidade fios da esp32 testados (x)
+- montagem do circuito completo nao funcionou ainda 25/11
 
