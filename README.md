@@ -5,7 +5,7 @@
 # 1. Introdução
 Este documento tem como finalidade apresentar a documentação técnica do projeto de desenvolvimento de um robô móvel para a modalidade Estoura-Balão, realizado no âmbito do Grupo de Robótica Competitiva (GRC).
 
-O projeto envolve o planejamento, a modelagem, o desenvolvimento dos sistemas de controle e elétrico, a integração dos componentes e a montagem de um robô capaz de participar de uma competição cujo objetivo consiste em estourar o balão do adversário enquanto preserva o próprio.
+O projeto envolve o planejamento, a modelagem, o desenvolvimento dos sistemas de controle e elétrico, a integração dos componentes e a montagem de um robô capaz de participar de uma competição cujo objetivo consiste em estourar o balão do adversário enquanto preserva o nosso.
 
 # 3. Objetivos
 ### 3.1. mecânica
@@ -56,4 +56,5 @@ O projeto envolve o planejamento, a modelagem, o desenvolvimento dos sistemas de
 
 IMPORTANTE: a utilização desses recursos deverá orientar as decisões relacionadas à modelagem.
 # 7. Metodologia de Desenvolvimento
+# 8. testes e resultados
 
