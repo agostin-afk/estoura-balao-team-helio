@@ -63,5 +63,5 @@ IMPORTANTE: a utilização desses recursos deverá orientar as decisões relacio
 - comunicação esps32 e drive testados (x)
 - continuidade fios do drive testados (x)
 - continuidade fios da esp32 testados (x)
-- montagem do circuito completo nao funcionou ainda 25/11
+- montagem do circuito completo nao funcionou por causa de mal contato do drive
 
